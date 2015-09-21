@@ -1,1 +1,6 @@
 http://www.dokwork.ru/2014/02/daotalk.html
+
+ --- Spring ---
+ http://javaxblog.ru/article/java-spring-1/
+ http://habrahabr.ru/post/83860/
+ http://www.javaportal.ru/java/articles/spring.html
