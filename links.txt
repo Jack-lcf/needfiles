@@ -4,3 +4,6 @@ http://www.dokwork.ru/2014/02/daotalk.html
  http://javaxblog.ru/article/java-spring-1/
  http://habrahabr.ru/post/83860/
  http://www.javaportal.ru/java/articles/spring.html
+
+https://github.com/spring-projects/spring-framework/wiki/Downloading-Spring-artifacts
+http://stackoverflow.com/questions/19082860/where-can-i-download-spring-framework-jars-without-using-maven
