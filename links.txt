@@ -10,3 +10,18 @@ https://elwood.su/2014/02/random-array-items/
 
 https://github.com/spring-projects/spring-framework/wiki/Downloading-Spring-artifacts
 http://stackoverflow.com/questions/19082860/where-can-i-download-spring-framework-jars-without-using-maven
+
+--- Вопросы ---
+
+http://becomejavasenior.com/blog/2015/07/01/327-interview-questions-java-developer/
+http://habrahabr.ru/post/248865/
+http://www.javenue.info/post/89
+http://habrahabr.ru/post/162017/
+http://www.golovachcourses.com/procedural-dynamic-data-structures/
+
+--- Проектирование баз данных ---
+
+http://habrahabr.ru/post/194714/
+http://www.quizful.net/post/Architecture-DB-online-store
+http://zlob.in/2013/01/struktura-tablic-dlya-kataloga-tovarov-internet-magazina/
+http://frolov-lib.ru/books/rusedit/web_development/ch14.html
