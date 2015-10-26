@@ -1,5 +1,8 @@
 http://www.dokwork.ru/2014/02/daotalk.html
 
+-- Немчинский --
+http://javaoutsource.blogspot.com.by/2015/09/java-enterprise-dou.html#more
+
 -- Случайные элементы --
 https://elwood.su/2014/02/random-array-items/
 http://docs.unity3d.com/ru/current/Manual/RandomNumbers.html
