@@ -1,4 +1,7 @@
 
+--- for Java ---
+https://www.youtube.com/user/zaneacademy/playlists
+
 --- Java Frameworks ---
 https://www.youtube.com/user/koushks/playlists
 
@@ -20,6 +23,7 @@ https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCkg2uj3PxUWhMDuTw3VKjM
 
 --- MongoDB ---
 https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO
+https://www.youtube.com/playlist?list=PLSM8fkP9ppPpE7lz9GthKgvOZQD2EwqZ0
 
 --- Android + Java ---
 https://www.youtube.com/user/devcolibri/playlists (Devcolibri)
