@@ -1,3 +1,37 @@
 
+--- Java Frameworks ---
+https://www.youtube.com/user/koushks/playlists
+
 --- REST ---
 https://www.youtube.com/playlist?list=PL3PgLTgdVGmiVFS5Gagr_tmY-PuYhuXBK
+
+--- JQuery ---
+https://www.youtube.com/playlist?list=PLvItDmb0sZw964PmBjUcB75x17RK7M5ZA (ITVDN)
+https://www.youtube.com/playlist?list=PL3877C5434C042349 (Derek Banas)
+https://www.youtube.com/playlist?list=PLYZm5HGThGRBgNFEyXBCyQH1DjONspuwU (Knowcity)
+https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S (Loftblog)
+
+--- Front-end ---
+https://www.youtube.com/user/loftblog/playlists
+
+--- Linux ---
+https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCkg2uj3PxUWhMDuTw3VKjM
+
+--- MongoDB ---
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO
+
+--- Android + Java ---
+https://www.youtube.com/user/devcolibri/playlists (Devcolibri)
+
+--- C# ---
+https://www.youtube.com/user/Defazze/playlists
+
+--- Разные языки ---
+https://www.youtube.com/user/derekbanas/playlists
+https://www.youtube.com/user/thenewboston/playlists
+
+--- Network ---
+https://www.youtube.com/user/jelnovii/playlists
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGC04FAovs0lswXTPXeomORn (Wireless Security)
