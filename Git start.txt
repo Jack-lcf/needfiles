@@ -3,3 +3,7 @@ git config --global user.email "jack-lcf@yandex.ru"
 git init
 git remote add origin https://github.com/Jack-lcf/ExpertSoftTemp.git
 git pull origin master
+
+ls - показывает содержимое папки
+ls -a - и скрытые папки
+gitk - показывает репозиторий
