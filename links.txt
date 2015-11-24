@@ -35,3 +35,7 @@ http://frolov-lib.ru/books/rusedit/web_development/ch14.html
 
 http://habrahabr.ru/post/141362/
 https://unity3d.com/ru/learn/tutorials/topics/2d-game-creation
+
+--- Hosting Web Application ---
+http://stackoverflow.com/questions/16518848/how-to-host-web-application-for-free
+http://habrahabr.ru/post/145203/
