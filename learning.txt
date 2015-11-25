@@ -7,6 +7,7 @@ https://www.youtube.com/user/koushks/playlists
 
 --- REST ---
 https://www.youtube.com/playlist?list=PL3PgLTgdVGmiVFS5Gagr_tmY-PuYhuXBK
+https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn
 
 --- JQuery ---
 https://www.youtube.com/playlist?list=PLvItDmb0sZw964PmBjUcB75x17RK7M5ZA (ITVDN)
@@ -19,6 +20,15 @@ https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S (Loftbl
 
 --- Front-end ---
 https://www.youtube.com/user/loftblog/playlists
+
+--- Maven ---
+https://www.youtube.com/playlist?list=PL92E89440B7BFD0F6
+
+--- Struts ---
+https://www.youtube.com/playlist?list=PLB7BB551126EDD5E0
+
+--- SOAP ---
+https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39
 
 --- Linux ---
 https://www.youtube.com/playlist?list=PLY4rE9dstrJycywkq8M37bXoJJ922hpB6
