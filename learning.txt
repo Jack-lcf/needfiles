@@ -5,6 +5,12 @@ https://www.youtube.com/user/zaneacademy/playlists
 --- Java Frameworks ---
 https://www.youtube.com/user/koushks/playlists
 
+--- Spring ---
+http://javaxblog.ru/article/java-spring-1/
+http://habrahabr.ru/post/83860/
+http://www.javaportal.ru/java/articles/spring.html
+https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA
+
 --- REST ---
 https://www.youtube.com/playlist?list=PL3PgLTgdVGmiVFS5Gagr_tmY-PuYhuXBK
 https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn
