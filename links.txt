@@ -39,3 +39,8 @@ https://unity3d.com/ru/learn/tutorials/topics/2d-game-creation
 --- Hosting Web Application ---
 http://stackoverflow.com/questions/16518848/how-to-host-web-application-for-free
 http://habrahabr.ru/post/145203/
+
+--- Hibernate Annotations for examples ---
+http://javaxblog.ru/article/java-hibernate-3/
+http://www.seostella.com/ru/article/2012/03/17/osnovy-hibernate-3-na-primere-raboty-s-mysql.html
+http://java-course.ru/old/students/students.php?name=part18
