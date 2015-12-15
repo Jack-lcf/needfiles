@@ -22,6 +22,11 @@ https://www.youtube.com/playlist?list=PL3877C5434C042349 (Derek Banas)
 https://www.youtube.com/playlist?list=PLYZm5HGThGRBgNFEyXBCyQH1DjONspuwU (Knowcity)
 https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S (Loftblog)
 
+--- Xpath ---
+http://internetka.in.ua/xpath-start-part2/
+http://habrahabr.ru/post/65383/
+http://www.ibm.com/developerworks/ru/edu/x-xpath/x-xpath.html
+
 --- GWT ---
 
 
