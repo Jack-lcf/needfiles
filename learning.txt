@@ -26,6 +26,12 @@ https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S (Loftbl
 http://internetka.in.ua/xpath-start-part2/
 http://habrahabr.ru/post/65383/
 http://www.ibm.com/developerworks/ru/edu/x-xpath/x-xpath.html
+http://viralpatel.net/blogs/java-xml-xpath-tutorial-parse-xml/
+http://www.tutorialspoint.com/java_xml/java_xpath_parse_document.htm
+
+--- Page Object ---
+https://code.google.com/p/selenium/wiki/PageObjects
+http://ru.selenide.org/documentation/page-objects.html
 
 --- GWT ---
 
